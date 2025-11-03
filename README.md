@@ -14,14 +14,6 @@ A modular, enterprise‑grade ETL pipeline for financial market data. It support
 
 [![codecov](https://codecov.io/gh/josetraderx/Financial-Data-Pipeline/branch/main/graph/badge.svg)](https://codecov.io/gh/josetraderx/Financial-Data-Pipeline)
 
-# Financial Data Pipeline 📈
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josetraderx/financial-data-pipeline/main)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josetraderx/financial-data-pipeline/blob/main/notebooks/exodus_demo.ipynb)
-
-A modular, enterprise-grade ETL pipeline for financial market data. Supports extraction, transformation, validation, and storage from multiple sources (crypto, equities, derivatives) with advanced analytics and database integration.
-
 ## Table of Contents
 1. [Overview](#overview)
 2. [Requirements](#requirements)
