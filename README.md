@@ -1,3 +1,17 @@
+# Financial Data Pipeline 📊
+
+[![CI](https://github.com/thedatawithjose/Financial-Data-Pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/thedatawithjose/Financial-Data-Pipeline/actions/workflows/ci.yml)
+[![Code Coverage](https://img.shields.io/codecov/c/github/thedatawithjose/Financial-Data-Pipeline?style=flat-square)](https://codecov.io/gh/thedatawithjose/Financial-Data-Pipeline)
+[![GitHub Stars](https://img.shields.io/github/stars/thedatawithjose/Financial-Data-Pipeline?style=social)](https://github.com/thedatawithjose/Financial-Data-Pipeline/stargazers)
+[![License MIT](https://img.shields.io/github/license/thedatawithjose/Financial-Data-Pipeline?style=flat-square)](LICENSE)
+
+A modular, enterprise‑grade ETL pipeline for financial market data. It supports **extraction**, **transformation**, **validation** and **storage** from multiple sources (crypto, equities, derivatives) with advanced analytics and database integration. Designed with data contracts and monitoring in mind, this project gives you reproducible pipelines with cost and quality controls. See the full documentation below for setup, validation, data splits and extension points.
+
+<!-- Optionally embed a demonstration GIF here to visualise pipeline execution and monitoring
+![Demo GIF](docs/demo.gif)
+-->
+
+
 [![codecov](https://codecov.io/gh/josetraderx/Financial-Data-Pipeline/branch/main/graph/badge.svg)](https://codecov.io/gh/josetraderx/Financial-Data-Pipeline)
 
 # Financial Data Pipeline 📈
