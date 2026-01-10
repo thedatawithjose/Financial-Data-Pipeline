@@ -74,7 +74,7 @@ class TimeframeAggregator:
         resampled = df.resample(freq).agg(agg_dict)
 
         # Forward fill missing values (if any)
-        resampled = resampled.fillna(method="ffill")
+        resampled = resampled.ffill()
 
         return resampled
 

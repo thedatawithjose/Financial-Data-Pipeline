@@ -197,7 +197,7 @@ class EnhancedDataValidator:
             if impute:
                 for col in self.numeric_columns:
                     if col in df.columns:
-                        df[col] = df[col].fillna(method="ffill").fillna(method="bfill")
+                        df[col] = df[col].ffill().bfill()
                 self.logger.info("Null values imputed")
             else:
                 df = df.dropna()
